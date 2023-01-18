@@ -37,9 +37,11 @@ Die ehrenamtlich aktive OpenStreetMap-Community nutzt ein "Subtraktives Modell" 
 - tbc
 
 ## Medienberichte :newspaper:
-- [Tagesspiegel vom 02.11.2022](https://interaktiv.tagesspiegel.de/lab/wie-viele-autos-gibt-es-in-meiner-nachbarschaft-diese-berliner-kieze-bestehen-am-meisten-aus-parkplaetzen/)
-- [RBB vom 19.04.2022](https://www.rbb24.de/panorama/beitrag/2022/04/berlin-parkplaetze-scan-parken-erfassung-auslastung-saubere-luft.html)
-- [Die große Parkplatzsuche](https://taz.de/Recht-auf-Stadt/!5902129/) taz vom 20.12.2022
+- [Die große Parkplatzsuche](https://taz.de/Recht-auf-Stadt/!5902129/) taz-Artikel vom 20.12.2022
+- [Diese Berliner Kieze bestehen am meisten aus Parkplätzen](https://interaktiv.tagesspiegel.de/lab/wie-viele-autos-gibt-es-in-meiner-nachbarschaft-diese-berliner-kieze-bestehen-am-meisten-aus-parkplaetzen/) Tagesspiegel-Artikel vom 02.11.2022
+- [Grüne und Linke wollen weniger Parkplätze in Berlin: „Es wird wehtun“](https://www.berliner-zeitung.de/mensch-metropole/gruene-und-linke-wollen-weniger-parkplaetze-in-berlin-es-wird-wehtun-li.282453) Berliner Zeitung vom 01.11.2022
+- [Parkplätze werden in Berlin jetzt per Scan erfasst](https://www.rbb24.de/panorama/beitrag/2022/04/berlin-parkplaetze-scan-parken-erfassung-auslastung-saubere-luft.html) RBB-Bericht vom 19.04.2022
+
 
 ## Kontaktmöglichkeiten :mailbox_with_mail:
 Bei Fragen und Anregungen schreibt uns gerne per [Mail](mailto:odis@ts.berlin) oder hinterlasst hier Issues!
