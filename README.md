@@ -2,7 +2,7 @@ DIESE SEITE IST GERADE IM AUFBAU :construction:
 
 # Öffentliche Vernetzungs- und Informationsseite zu Parkplatzdaten in Berlin :wave:
 
-Diese Seite greift den Wunsch nach einer zentralen Informationsseite zum Thema Parkplatzdaten auf. Der Bedarf an einen (digitalen) Ort, um Informationen zu bündeln, sich auszutauschen und miteinander zu arbeiten wurde im Rahmen des öffentlichen [Vernetzungstreffen zu Parkplatzdaten](https://odis-berlin.de/aktuelles/2022-12-01-parkplatztreffen/) am 22.1.2022 im CityLAB Berlin deutlich. Mehrere ehrenamtliche Initiativen sowie Vertreter:innen der Verwaltung folgten der Einladung von Hans Hack (ODIS/CityLAB) und Prof. Dr. Sebastian Meier (FH Potsdam) zu einem ersten Austausch über Parkplatzdaten und Anwendungsfälle. 
+Diese Seite greift den Wunsch nach einer zentralen Informationsseite zum Thema Parkplatzdaten auf. Der Bedarf an einen (digitalen) Ort, um Informationen zu bündeln, sich auszutauschen und miteinander zu arbeiten wurde im Rahmen des öffentlichen [Vernetzungstreffen zu Parkplatzdaten am 22.1.2022 im CityLAB Berlin](https://odis-berlin.de/aktuelles/2022-12-01-parkplatztreffen/) deutlich. Mehrere ehrenamtliche Initiativen sowie Vertreter:innen der Verwaltung folgten der Einladung von Hans Hack (ODIS/CityLAB) und Prof. Dr. Sebastian Meier (FH Potsdam) zu einem ersten Austausch über Parkplatzdaten und Anwendungsfälle. 
 
 Dabei ist klar geworden: **Vielerorts fehlt es an einer guten Datengrundlage und an systematischem Wissen zu Parkplatzdaten**. Gleichzeitig setzen sich immer mehr Akteure aus Zivilgesellschaft, Wissenschaft und Verwaltung mit dem Thema auseinander und versuchen die Lücke zu schließen.
 
