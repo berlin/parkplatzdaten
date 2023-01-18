@@ -52,6 +52,6 @@ Mehr Informationen zum [CityLAB Berlin](https://citylab-berlin.org/de/start/)
 
 
 
-[<img src="https://odis-berlin.de/assets/images/page/odis-logo_contact/wp-smaller.png">](./verwaltung.md)
+[<img src="https://odis-berlin.de/assets/images/page/odis-logo_contact/.png">](./verwaltung.md)
 
 
