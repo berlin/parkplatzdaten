@@ -22,8 +22,12 @@ Aus der Annahme heraus, dass Parkraum im öffentlichen Raum einen deutlich zu ho
 #### [Project Car Tagger](https://github.com/hanshack/car-tagging-data-berlin/) - Mit Satellitenbilder Fahrzeuge taggen
 Mitorganisator Hans Hack stellte ein weiteres Datenerhebungsprojekt vor: Das selbst programmierte Tool Car Tagger kann fahrende oder parkende Autos anhand ihres Umrisses mit Satellitenbildern ausfindig machen und markieren. Ein Aufruf an die Community, sich zu beteiligen, führte schließlich dazu, dass auf mittlerweile 50% der Fläche Berlins ca. 500.000 Autos getagged wurden. Wenngleich auch hier wie in vielen Community-Projekten die Datenpflege eine große Herausforderung darstellt, kann das Tool aufgrund seiner Nachvollziehbarkeit und niedrigschwelligen Einstiegs überall genutzt werden und somit eine weitere Datenquelle bieten. **Die Daten stehen als offene Daten zur Verfügung**. Eine spannende Visualisierung der Daten hat Hans in [dieser Anwendung](https://hanshack.com/howmanycars/?viewRatio=false&zoom=13.084933259369187&lng=13.443490099742121&lat=52.47016553456325) vorgenommen, die das Verhältnis von parkenden und fahrenden Autos in Berlin zeigt.
 
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/cartagger.svg?style=social&label=Follow%20%40cartagger)](https://twitter.com/cartagger)
+
 #### [Paper planes](https://www.paper-planes.net) - Mit Parkplatzdaten den Straßenraum neu gestalten
 Etwas visionärer und futuristischer gestaltete sich der Vortrag von paper planes e.V.. Der Verein stellt unter dem Leitbild der Stadt der kurzen Wege verschiedene Thesen auf, wie wir in Zukunft leben könnten. Dabei kommt dem öffentlichen Straßenraum eine besondere Rolle zuteil. Denn nach Ansicht von paper planes würde eine Befreiung der Straßen von Autos und damit natürlich auch von Parkplätzen die Chance bieten, das Zusammenleben in der Stadt ganz neu zu gestalten. Einige Ideen werden im Berliner Stadtbild bereits erkennbar, wie zum Beispiel Parklets, die Parkbuchten in Orte des Verweilens und Zusammenkommens umwandeln. Für paper planes wäre eine umfassende Datenlage zu Parkplätzen eine wichtige Grundlage für weitere Aktivitäten.
+
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/hey_paperplanes.svg?style=social&label=Follow%20%40hey_paperplanes)](https://twitter.com/hey_paperplanes)
 
 ### Forschungsprojekte 
 
