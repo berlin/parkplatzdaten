@@ -14,7 +14,7 @@ An dieser Stelle sammeln wir die uns bekannten Akteur:innen und Projekte. Die Li
 
 
 #### [OSM-Verkehrswendegruppe](https://wiki.openstreetmap.org/wiki/Berlin/Verkehrswende)
-Die ehrenamtlich aktive OpenStreetMap-Community nutzt ein "Subtraktives Modell" als Datenerhebungsmethodik. Dabei werden verschiedene Elemente wie Parkstreifen, Einfahrten, Parkverbote oder Haltestellen auf Fahrbahnen getagged auf denen nicht geparkt werden darf. Darauf aufbauend wird ein Parkraummodell erstellt und die Daten visualisiert. [Am Beispiel des Bezirks Neukölln](https://strassenraumkarte.osm-berlin.org/about) konnte die OSM-Community 40.000 Stellplätze ermitteln. Nach eigenen Angaben liegt die Datenqualität mit der gewählten Methodik bei 80%. Die Daten stehen offen zur Verfügung und sind unter anderem als GeoJSON exportierbar. 
+Die ehrenamtlich aktive OpenStreetMap-Community nutzt ein "Subtraktives Modell" als Datenerhebungsmethodik. Dabei werden verschiedene Elemente wie Parkstreifen, Einfahrten, Parkverbote oder Haltestellen auf Fahrbahnen getagged auf denen nicht geparkt werden darf. Darauf aufbauend wird ein Parkraummodell erstellt und die Daten visualisiert. [Am Beispiel des Bezirks Neukölln](https://strassenraumkarte.osm-berlin.org/about) konnte die OSM-Community 40.000 Stellplätze ermitteln. Nach eigenen Angaben liegt die Datenqualität mit der gewählten Methodik bei 80%. **Die Daten stehen offen zur Verfügung und sind unter anderem als GeoJSON exportierbar**. 
 
 #### [Parkplatz Transform](
 - Berliner Verwaltung
