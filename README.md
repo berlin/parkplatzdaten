@@ -38,7 +38,8 @@ Die ehrenamtlich aktive OpenStreetMap-Community nutzt ein "Subtraktives Modell" 
 
 ## Medienberichte :newspaper:
 - [Tagesspiegel vom 02.11.2022](https://interaktiv.tagesspiegel.de/lab/wie-viele-autos-gibt-es-in-meiner-nachbarschaft-diese-berliner-kieze-bestehen-am-meisten-aus-parkplaetzen/)
-- 
+- [RBB vom 19.04.2022](https://www.rbb24.de/panorama/beitrag/2022/04/berlin-parkplaetze-scan-parken-erfassung-auslastung-saubere-luft.html)
+- [Die große Parkplatzsuche](https://taz.de/Recht-auf-Stadt/!5902129/) taz vom 20.12.2022
 
 ## Kontaktmöglichkeiten :mailbox_with_mail:
 Bei Fragen und Anregungen schreibt uns gerne per [Mail](mailto:odis@ts.berlin) oder hinterlasst hier Issues!
