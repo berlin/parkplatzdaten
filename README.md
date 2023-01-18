@@ -34,22 +34,19 @@ Die ehrenamtlich aktive OpenStreetMap-Community nutzt ein "Subtraktives Modell" 
 
 ## Veranstaltungen :date:
 - [Parkplatzdaten - Erfassung und Nutzung. Vernetzungstreffen im CityLAB Berlin](https://citylab-berlin.org/de/events/parkplatzdaten-erfassung-und-nutzung/)
-- Weitere Veranstaltungen?- Parkplatztreffen ODIS [LINK]
-- Open Dat 
+- tbc
 
 ## Medienberichte :newspaper:
-
-## 
-- Schema 
 
 
 ## Kontaktmöglichkeiten :mailbox_with_mail:
 Bei Fragen und Anregungen schreibt uns gerne per [Mail](mailto:odis@ts.berlin) oder hinterlasst hier Issues!
 
 
-Mehr Informationen zur Open Data Informationsstelle Berlin findet ihr hier:
-Mehr Informationen zum CityLAB findet ihr hier:
-Prof. Dr. Sebastian Meier (FH Potsdam)
+Mehr Informationen zur [Open Data Informationsstelle Berlin](https://odis-berlin.de)
+Mehr Informationen zum [CityLAB Berlin](https://citylab-berlin.org/de/start/)
+
+
 
 
 
