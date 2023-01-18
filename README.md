@@ -37,7 +37,8 @@ Die ehrenamtlich aktive OpenStreetMap-Community nutzt ein "Subtraktives Modell" 
 - tbc
 
 ## Medienberichte :newspaper:
-
+- [Tagesspiegel vom 02.11.2022](https://interaktiv.tagesspiegel.de/lab/wie-viele-autos-gibt-es-in-meiner-nachbarschaft-diese-berliner-kieze-bestehen-am-meisten-aus-parkplaetzen/)
+- 
 
 ## Kontaktmöglichkeiten :mailbox_with_mail:
 Bei Fragen und Anregungen schreibt uns gerne per [Mail](mailto:odis@ts.berlin) oder hinterlasst hier Issues!
@@ -51,6 +52,6 @@ Mehr Informationen zum [CityLAB Berlin](https://citylab-berlin.org/de/start/)
 
 
 
-[<img src="https://odis-berlin.de/assets/images/page/odis-logo_contact.png">](./verwaltung.md)
+[<img src="https://odis-berlin.de/assets/images/page/odis-logo_contact/wp-smaller.png">](./verwaltung.md)
 
 
