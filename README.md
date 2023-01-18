@@ -2,7 +2,9 @@ DIESE SEITE IST GERADE IM AUFBAU :construction:
 
 # Öffentliche Vernetzungs- und Informationsseite zu Parkplatzdaten in Berlin :wave:
 
-Diese Seite greift den Wunsch nach einer zentralen Informationsseite zum Thema Parkplatzdaten auf. Der Bedarf an einen (digitalen) Ort, um Informationen zu bündeln, sich auszutauschen und miteinander zu arbeiten wurde im Rahmen des öffentlichen [Vernetzungstreffen zu Parkplatzdaten](https://odis-berlin.de/aktuelles/2022-12-01-parkplatztreffen/) am 22.1.2022 im CityLAB Berlin deutlich. Mehrere ehrenamtliche Initiativen sowie Vertreter:innen der Verwaltung folgten der Einladung von Hans Hack (ODIS/CityLAB)und Prof. Dr. Sebastian Meier (FH Potsdam) zu einem ersten Austausch über Parkplatzdaten und Anwendungsfälle. Dabei ist klar geworden: Vielerorts fehlt es an einer guten Datengrundlage und an systematischem Wissen zu Parkplatzdaten. Gleichzeitig setzen sich immer mehr Akteure aus Zivilgesellschaft, Wissenschaft und Verwaltung mit dem Thema auseinander und versuchen die Lücke zu schließen.
+Diese Seite greift den Wunsch nach einer zentralen Informationsseite zum Thema Parkplatzdaten auf. Der Bedarf an einen (digitalen) Ort, um Informationen zu bündeln, sich auszutauschen und miteinander zu arbeiten wurde im Rahmen des öffentlichen [Vernetzungstreffen zu Parkplatzdaten](https://odis-berlin.de/aktuelles/2022-12-01-parkplatztreffen/) am 22.1.2022 im CityLAB Berlin deutlich. Mehrere ehrenamtliche Initiativen sowie Vertreter:innen der Verwaltung folgten der Einladung von Hans Hack (ODIS/CityLAB) und Prof. Dr. Sebastian Meier (FH Potsdam) zu einem ersten Austausch über Parkplatzdaten und Anwendungsfälle. 
+
+Dabei ist klar geworden: **Vielerorts fehlt es an einer guten Datengrundlage und an systematischem Wissen zu Parkplatzdaten**. Gleichzeitig setzen sich immer mehr Akteure aus Zivilgesellschaft, Wissenschaft und Verwaltung mit dem Thema auseinander und versuchen die Lücke zu schließen.
 
 Wir laden alle Interessierte ein, das Informationsangebot wachsen zu lassen und sich miteinander ausztauschen - Wir freuen uns über Projektvorstellungen, Veranstaltungstips, Fragen oder Projektideen!
 
@@ -38,6 +40,8 @@ Ein Mobilitätsprojekt aus der Wissenschaft präsentierte Pasymo. Das Forschungs
 
 #### Senatsverwaltung für Umwelt, Mobilität, Verbraucher und Klimaschutz (SenUMVK)
 Mit einer Parkraumkartierung und Parkdatenanalyse durch einen externen Dienstleister will die Senatsverwaltung für Umwelt, Mobilität, Verbraucher- und Klimaschutz (SenUMVK) die Datenlücke sukzessive schließen. Dafür soll eine Kartierung von öffentlichen Parkplätzen innerhalb des S-Bahn Rings und angrenzender Gebiete erfolgen, sowie eine Erfassung von Auslastung, Parkverhalten und Parksuchverkehr vor und nach Einführung von neuen Parkzonen. Gerade mit den dynamischen Daten zum Beispiel zum Parksuchverkehr soll so die Grundlage geschaffen werden, verkehrspolitische Maßnahmen wie zum Beispiel die Einführung von Parkzonen zu bewerten. Aber auch für angrenzende Themen wie die Messung der Luftqualität sollen die Daten herangezogen werden. Aus Open-Data-Sicht erfreulich: Die Kartierungsdaten sollen auf der Digitalen Plattform Stadtverkehr ab März 2023 frei zugänglich zur Verfügung gestellt werden. Und auch die Analysedaten rund um die Einführung der neuen Parkzonen werden 2023 erhoben und voraussichtlich bis Mitte 2024 veröffentlicht.
+
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/SenUMVKBerlin.svg?style=social&label=Follow%20%40SenUMVKBerlin)](https://twitter.com/SenUMVKBerlin)
 
 #### Bezirk Charlottenburg-Wilmersdorf
 
