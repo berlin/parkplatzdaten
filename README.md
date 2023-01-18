@@ -22,8 +22,9 @@ Aus der Annahme heraus, dass Parkraum im öffentlichen Raum einen deutlich zu ho
 
 [![123456][http://i.imgur.com/tXSoThF.png]][http://www.twitter.com/ParkplatzT]
 
-#### [Project Car Tagger] - Mit Satellitenbilder Fahrzeuge taggen
-Mitorganisator Hans Hack stellte ein weiteres Datenerhebungsprojekt vor: Das selbst programmierte Tool Car Tagger kann fahrende oder parkende Autos anhand ihres Umrisses mit Satellitenbildern ausfindig machen und markieren. Ein Aufruf an die Community, sich zu beteiligen, führte schließlich dazu, dass auf mittlerweile 50% der Fläche Berlins ca. 500.000 Autos getagged wurden. Wenngleich auch hier wie in vielen Community-Projekten die Datenpflege eine große Herausforderung darstellt, kann das Tool aufgrund seiner Nachvollziehbarkeit und niedrigschwelligen Einstiegs überall genutzt werden und somit eine weitere Datenquelle bieten. **Die Daten stehen als offene Daten zur Verfügung**. Eine spannende Visualisierung der Daten hat Hans in dieser Anwendung vorgenommen, die das Verhältnis von parkenden und fahrenden Autos in Berlin zeigt. Die genaue Methodik zum Project Car Tagger ist auf Github zu finden.
+#### [Project Car Tagger](https://github.com/hanshack/car-tagging-data-berlin/) - Mit Satellitenbilder Fahrzeuge taggen
+Mitorganisator Hans Hack stellte ein weiteres Datenerhebungsprojekt vor: Das selbst programmierte Tool Car Tagger kann fahrende oder parkende Autos anhand ihres Umrisses mit Satellitenbildern ausfindig machen und markieren. Ein Aufruf an die Community, sich zu beteiligen, führte schließlich dazu, dass auf mittlerweile 50% der Fläche Berlins ca. 500.000 Autos getagged wurden. Wenngleich auch hier wie in vielen Community-Projekten die Datenpflege eine große Herausforderung darstellt, kann das Tool aufgrund seiner Nachvollziehbarkeit und niedrigschwelligen Einstiegs überall genutzt werden und somit eine weitere Datenquelle bieten. **Die Daten stehen als offene Daten zur Verfügung**. Eine spannende Visualisierung der Daten hat Hans in [dieser Anwendung](https://hanshack.com/howmanycars/?viewRatio=false&zoom=13.084933259369187&lng=13.443490099742121&lat=52.47016553456325) vorgenommen, die das Verhältnis von parkenden und fahrenden Autos in Berlin zeigt.
+
 
 
 - Berliner Verwaltung
@@ -46,8 +47,8 @@ Mitorganisator Hans Hack stellte ein weiteres Datenerhebungsprojekt vor: Das sel
 - tbc
 
 ## Medienberichte :newspaper:
-- [Die große Parkplatzsuche](https://taz.de/Recht-auf-Stadt/!5902129/) taz-Artikel vom 20.12.2022
-- [Diese Berliner Kieze bestehen am meisten aus Parkplätzen](https://interaktiv.tagesspiegel.de/lab/wie-viele-autos-gibt-es-in-meiner-nachbarschaft-diese-berliner-kieze-bestehen-am-meisten-aus-parkplaetzen/) Tagesspiegel-Artikel vom 02.11.2022
+- [Die große Parkplatzsuche](https://taz.de/Recht-auf-Stadt/!5902129/) taz vom 20.12.2022
+- [Diese Berliner Kieze bestehen am meisten aus Parkplätzen](https://interaktiv.tagesspiegel.de/lab/wie-viele-autos-gibt-es-in-meiner-nachbarschaft-diese-berliner-kieze-bestehen-am-meisten-aus-parkplaetzen/) Tagesspiegel vom 02.11.2022
 - [Grüne und Linke wollen weniger Parkplätze in Berlin: „Es wird wehtun“](https://www.berliner-zeitung.de/mensch-metropole/gruene-und-linke-wollen-weniger-parkplaetze-in-berlin-es-wird-wehtun-li.282453) Berliner Zeitung vom 01.11.2022
 - [Parkplätze werden in Berlin jetzt per Scan erfasst](https://www.rbb24.de/panorama/beitrag/2022/04/berlin-parkplaetze-scan-parken-erfassung-auslastung-saubere-luft.html) RBB-Bericht vom 19.04.2022
 
