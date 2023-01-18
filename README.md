@@ -33,7 +33,7 @@ Die ehrenamtlich aktive OpenStreetMap-Community nutzt ein "Subtraktives Modell" 
 - L
 
 ## Veranstaltungen :date:
-- [Parkplatzdaten - Erfassung und Nutzung. Vernetzungstreffen im CityLAB Berlin](https://citylab-berlin.org/de/events/parkplatzdaten-erfassung-und-nutzung/)
+* [Parkplatzdaten - Erfassung und Nutzung. Vernetzungstreffen im CityLAB Berlin](https://citylab-berlin.org/de/events/parkplatzdaten-erfassung-und-nutzung/)
 - tbc
 
 ## Medienberichte :newspaper:
