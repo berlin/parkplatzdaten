@@ -22,7 +22,10 @@ Aus der Annahme heraus, dass Parkraum im öffentlichen Raum einen deutlich zu ho
 
 [![123456][http://i.imgur.com/tXSoThF.png]][http://www.twitter.com/ParkplatzT]
 
-#
+#### [Project Car Tagger] - Mit Satellitenbilder Fahrzeuge taggen
+Mitorganisator Hans Hack stellte ein weiteres Datenerhebungsprojekt vor: Das selbst programmierte Tool Car Tagger kann fahrende oder parkende Autos anhand ihres Umrisses mit Satellitenbildern ausfindig machen und markieren. Ein Aufruf an die Community, sich zu beteiligen, führte schließlich dazu, dass auf mittlerweile 50% der Fläche Berlins ca. 500.000 Autos getagged wurden. Wenngleich auch hier wie in vielen Community-Projekten die Datenpflege eine große Herausforderung darstellt, kann das Tool aufgrund seiner Nachvollziehbarkeit und niedrigschwelligen Einstiegs überall genutzt werden und somit eine weitere Datenquelle bieten. **Die Daten stehen als offene Daten zur Verfügung**. Eine spannende Visualisierung der Daten hat Hans in dieser Anwendung vorgenommen, die das Verhältnis von parkenden und fahrenden Autos in Berlin zeigt. Die genaue Methodik zum Project Car Tagger ist auf Github zu finden.
+
+
 - Berliner Verwaltung
   - Kreuzberg: 
   - Mitte: XYZ
