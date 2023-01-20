@@ -59,9 +59,11 @@ Mit einer Parkraumkartierung und Parkdatenanalyse durch einen externen Dienstlei
 
 
 ### FIS-Broker
-
-### 
--
+- [Behindertenparkkplätze](https://fbinter.stadt-berlin.de/fb/?loginkey=showMap&mapId=k_oeffbeleucht@senstadt)
+- 
+### Ehrenamtliche Quellen
+- [Kartierte Parkplätze durch Parkplatz Transform](https://www.xtransform.org)
+- [OpenStreetMap-Daten](
 
 ## Veranstaltungen :date:
 * **22.11.2022** [Parkplatzdaten - Erfassung und Nutzung. Vernetzungstreffen im CityLAB Berlin](https://citylab-berlin.org/de/events/parkplatzdaten-erfassung-und-nutzung/)
