@@ -33,7 +33,7 @@ Ansprechperson: [Hans Hack](hanshack@troet.cafe)
 #### [Paper planes](https://www.paper-planes.net) - Mit Parkplatzdaten den Straßenraum neu gestalten
 Der Verein paper planes e.V entwickelt Konzepte und Ideen für die Stadt der Zukunft. Dabei kommt dem öffentlichen Straßenraum eine besondere Rolle zuteil, da er die Chance bietet, das Zusammenleben in der Stadt ganz neu zu gestalten. Für paper planes ist eine umfassende Datenlage zu Parkplätzen eine wichtige Grundlage für weitere Aktivitäten.
 
-Ansprechperson: Simon Wöhr
+Ansprechperson: [Simon Wöhr](mailto:)
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/hey_paperplanes.svg?style=social&label=Follow%20%40hey_paperplanes)](https://twitter.com/hey_paperplanes)
 
@@ -80,8 +80,9 @@ Ansprechperson: [Simon Stolz](mailto:)
 
 
 ### FIS-Broker
-- [Behindertenparkkplätze](https://fbinter.stadt-berlin.de/fb/?loginkey=showMap&mapId=k_oeffbeleucht@senstadt)
-- 
+- [Behindertenparkplätze](https://fbinter.stadt-berlin.de/fb/?loginkey=showMap&mapId=k_oeffbeleucht@senstadt)
+
+
 ### Weitere Quellen
 - [Kartierte Parkplätze durch Parkplatz Transform](https://www.xtransform.org)
 - [OpenStreetMap-Daten](
