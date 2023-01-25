@@ -50,14 +50,21 @@ Ansprechperson: [Dr. Maria Mensch](mailto:maria.mensch@bliq.ai)
 ### Berliner Verwaltung
 
 #### Senatsverwaltung für Umwelt, Mobilität, Verbraucher- und Klimaschutz (SenUMVK) - Erste groflächige Datenerhebung gestartet
-Mit einer Parkraumkartierung und Parkdatenanalyse durch einen externen Dienstleister will die Senatsverwaltung für Umwelt, Mobilität, Verbraucher- und Klimaschutz (SenUMVK) die Datenlücke sukzessive schließen. Dafür soll eine Kartierung von öffentlichen Parkplätzen innerhalb des S-Bahn Rings und angrenzender Gebiete erfolgen, sowie eine Erfassung von Auslastung, Parkverhalten und Parksuchverkehr vor und nach Einführung von neuen Parkzonen. Gerade mit den dynamischen Daten zum Beispiel zum Parksuchverkehr soll so die Grundlage geschaffen werden, verkehrspolitische Maßnahmen wie zum Beispiel die Einführung von Parkzonen zu bewerten. Aber auch für angrenzende Themen wie die Messung der Luftqualität sollen die Daten herangezogen werden. Aus Open-Data-Sicht erfreulich: **Die Kartierungsdaten sollen auf der Digitalen Plattform Stadtverkehr ab März 2023 frei zugänglich zur Verfügung gestellt werden**. Und auch die Analysedaten rund um die Einführung der neuen Parkzonen werden 2023 erhoben und voraussichtlich bis Mitte 2024 veröffentlicht.
+Mit einer Parkraumkartierung und Parkdatenanalyse durch einen externen Dienstleister will die Senatsverwaltung für Umwelt, Mobilität, Verbraucher- und Klimaschutz (SenUMVK) Parkplatzdaten sammeln. Dafür soll eine Kartierung von öffentlichen Parkplätzen innerhalb des S-Bahn Rings und angrenzender Gebiete erfolgen, sowie eine Erfassung von Auslastung, Parkverhalten und Parksuchverkehr vor und nach Einführung von neuen Parkzonen. Gerade mit den dynamischen Daten zum Beispiel zum Parksuchverkehr soll so die Grundlage geschaffen werden, verkehrspolitische Maßnahmen wie zum Beispiel die Einführung von Parkzonen zu bewerten. Aber auch für angrenzende Themen wie die Messung der Luftqualität sollen die Daten herangezogen werden. **Die Kartierungsdaten sollen auf der Digitalen Plattform Stadtverkehr voraussichtlich ab März 2023 frei zugänglich zur Verfügung gestellt werden**. 
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/SenUMVKBerlin.svg?style=social&label=Follow%20%40SenUMVKBerlin)](https://twitter.com/SenUMVKBerlin)
+Ansprechperson: [Benjamin Sternkopf](mailto:Benjamin.Sternkopf@SenUMVK.berlin.de)
+
 
 #### [Bezirk Charlottenburg-Wilmersdorf](https://www.berlin.de/ba-charlottenburg-wilmersdorf/service/formulare/artikel.194652.php)
+Als erster Berliner Bezirk hat Charlottenburg-Wilmersdorf Daten zum Parkraumbestand ermitteln lassen. Die Daten liegen frei verfügbar als offene Daten auf dem Open Data Portal Berlin bereit.
 
+Ansprechperson [Gunnar](mailto:)
 
-#### Bezirk Kreuzberg: 
+#### Bezirk Friedrichshain-Kreuzberg: 
+
+Auch der Bezirk Friedrichshain-Kreuzberg hat großes Interesse an Parkplatzdaten, um die Planung und Bewirtschaftung des Straßenraums datengestützt voranzutreiben. Seit 2022 arbeitet der Bezirk mit der OSM-Community und FixMyCity zusammen, um in einer gemeinsamen Kampagne zusammen mit zivilgesellschaftlichen Akteuren Parkraumdaten für den Bezirk zu erfassen.
+
+Ansprechperson: [Simon Stolz](mailto:)
 
 
 
