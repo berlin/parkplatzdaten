@@ -138,7 +138,7 @@ Mehr Informationen zum [CityLAB Berlin](https://citylab-berlin.org/de/start/)
        Supported by: <a href="https://www.berlin.de/sen/inneres/">
         <br />
         <br />
-        <img width="100" src="./parkplatzdaten/B_SEN_InnDS_Logo_DE_V_PW_RGB.png"/> 
+        <img width="100" src="./B_SEN_InnDS_Logo_DE_V_PW_RGB.png"/> 
       </a>
     </td>
   </tr>
