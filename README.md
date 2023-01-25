@@ -62,6 +62,7 @@ Mit einer Parkraumkartierung und Parkdatenanalyse durch einen externen Dienstlei
 
 
 ## Anwendungen :car:
+- Die Daten des von Parkplatztransform könne  auf einer interaktiven Karte des Tagesspiegels [hier angesehen werden](https://interaktiv.tagesspiegel.de/lab/wie-viele-autos-gibt-es-in-meiner-nachbarschaft-diese-berliner-kieze-bestehen-am-meisten-aus-parkplaetzen/) *Stand: 31.10.22*
 - Eine spannende Visualisierung der Daten hat Hans in [dieser Anwendung](https://hanshack.com/howmanycars/?viewRatio=false&zoom=13.084933259369187&lng=13.443490099742121&lat=52.47016553456325) vorgenommen, die das Verhältnis von parkenden und fahrenden Autos in Berlin zeigt.
 
 
