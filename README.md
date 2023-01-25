@@ -112,6 +112,40 @@ Mehr Informationen zum [CityLAB Berlin](https://citylab-berlin.org/de/start/)
 
 
 
+## Credits
+
+<table>
+  <tr>
+    <td>
+      <a href="https://odis-berlin.de">
+        <br />
+        <br />
+        <img width="200" src="https://logos.citylab-berlin.org/logo-odis-berlin.svg" />
+      </a>
+    </td>
+    <td>
+      Together with: <a href="https://citylab-berlin.org/en/start/">
+        <br />
+        <br />
+        <img width="200" src="https://logos.citylab-berlin.org/logo-citylab-berlin.svg" />
+      </a>
+    </td>
+    <td>
+      A project by: <a href="https://www.technologiestiftung-berlin.de/en/">
+        <br />
+        <br />
+        <img width="150" src="https://logos.citylab-berlin.org/logo-technologiestiftung-berlin-en.svg" />
+      </a>
+    </td>
+    <td>
+       Supported by: <a href="https://www.berlin.de/sen/inneres/">
+        <br />
+        <br />
+        <img width="80" src="./resources/B_SEN_InnDS_Logo_DE_V_PW_RGB.svg"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
