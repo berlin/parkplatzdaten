@@ -95,6 +95,9 @@ Ansprechperson: [Simon Stolz](mailto:)
 - [Grüne und Linke wollen weniger Parkplätze in Berlin: „Es wird wehtun“](https://www.berliner-zeitung.de/mensch-metropole/gruene-und-linke-wollen-weniger-parkplaetze-in-berlin-es-wird-wehtun-li.282453) *Berliner Zeitung vom 01.11.2022*
 - [Parkplätze werden in Berlin jetzt per Scan erfasst](https://www.rbb24.de/panorama/beitrag/2022/04/berlin-parkplaetze-scan-parken-erfassung-auslastung-saubere-luft.html) *RBB vom 19.04.2022*
 
+## Schemas
+
+- [ParkingFacility von schema.org](https://schema.org/ParkingFacility)
 
 ## Kontaktmöglichkeiten :mailbox_with_mail:
 Bei Fragen und Anregungen schreibt uns gerne per [Mail](mailto:odis@ts.berlin) oder hinterlasst hier Issues!
