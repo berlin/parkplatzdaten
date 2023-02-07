@@ -46,7 +46,7 @@ Das Forschungsprojekt Pasymo ist am Institut für angewandte Forschung (IaF) Urb
 ### Berliner Verwaltung
 
 
-#### Senatsverwaltung für Umwelt, Mobilität, Verbraucher- und Klimaschutz (SenUMVK) - Erste groflächige Datenerhebung gestartet
+#### Senatsverwaltung für Umwelt, Mobilität, Verbraucher- und Klimaschutz (SenUMVK) - Erste großflächige Datenerhebung gestartet
 Mit einer Parkraumkartierung und Parkdatenanalyse durch einen externen Dienstleister will die Senatsverwaltung für Umwelt, Mobilität, Verbraucher- und Klimaschutz (SenUMVK) Parkplatzdaten sammeln. Dafür soll eine Kartierung von öffentlichen Parkplätzen innerhalb des S-Bahn Rings und angrenzender Gebiete erfolgen, sowie eine Erfassung von Auslastung, Parkverhalten und Parksuchverkehr vor und nach Einführung von neuen Parkzonen. Gerade mit den dynamischen Daten zum Beispiel zum Parksuchverkehr soll so die Grundlage geschaffen werden, verkehrspolitische Maßnahmen wie zum Beispiel die Einführung von Parkzonen zu bewerten. Aber auch für angrenzende Themen wie die Messung der Luftqualität sollen die Daten herangezogen werden. **Die Kartierungsdaten sollen auf der Digitalen Plattform Stadtverkehr voraussichtlich ab März 2023 frei zugänglich zur Verfügung gestellt werden**. 
 
 Ansprechperson: [Benjamin Sternkopf](mailto:Benjamin.Sternkopf@SenUMVK.berlin.de)
