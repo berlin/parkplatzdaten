@@ -78,7 +78,7 @@ Ansprechperson: [Simon Stolz](mailto:)
 
 ### FIS-Broker
 - [Behindertenparkplätze](https://fbinter.stadt-berlin.de/fb/index.jsp?loginkey=zoomStart&mapId=k_bparkplatz@senstadt&bbox=360180,5798703,425782,5838830)
-
+- [Straßenbefahrung 2014](https://fbinter.stadt-berlin.de/fb/index.jsp?loginkey=zoomStart&mapId=k_StraDa@senstadt&bbox=385430,5816847,385638,5816973)
 
 ### Weitere Quellen
 - [Kartierte Parkplätze durch Parkplatz Transform](https://www.xtransform.org)
