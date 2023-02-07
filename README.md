@@ -77,7 +77,7 @@ Ansprechperson: [Simon Stolz](mailto:)
 
 
 ### FIS-Broker
-- [Behindertenparkplätze](https://fbinter.stadt-berlin.de/fb/?loginkey=showMap&mapId=k_oeffbeleucht@senstadt)
+- [Behindertenparkplätze](https://fbinter.stadt-berlin.de/fb/index.jsp?loginkey=zoomStart&mapId=k_bparkplatz@senstadt&bbox=360180,5798703,425782,5838830)
 
 
 ### Weitere Quellen
