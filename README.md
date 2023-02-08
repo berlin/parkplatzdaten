@@ -55,8 +55,6 @@ Ansprechperson: [Benjamin Sternkopf](mailto:Benjamin.Sternkopf@SenUMVK.berlin.de
 #### [Bezirk Charlottenburg-Wilmersdorf](https://www.berlin.de/ba-charlottenburg-wilmersdorf/service/formulare/artikel.194652.php)
 Als erster Berliner Bezirk hat Charlottenburg-Wilmersdorf Daten zum Parkraumbestand ermitteln lassen. Die Daten liegen frei verfügbar als offene Daten auf dem Open Data Portal Berlin bereit.
 
-Ansprechperson [Gunnar](mailto:)
-
 #### Bezirk Friedrichshain-Kreuzberg: 
 
 Auch der Bezirk Friedrichshain-Kreuzberg hat großes Interesse an Parkplatzdaten, um die Planung und Bewirtschaftung des Straßenraums datengestützt voranzutreiben. Seit 2022 arbeitet der Bezirk mit der OSM-Community und FixMyCity zusammen, um in einer gemeinsamen Kampagne zusammen mit zivilgesellschaftlichen Akteuren Parkraumdaten für den Bezirk zu erfassen.
