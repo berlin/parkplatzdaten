@@ -13,8 +13,8 @@ An dieser Stelle sammeln wir die uns bekannten Akteur:innen und Projekte. Die Li
 
 ### Ehrenamtliche Initiativen
 
-#### [OSM-Verkehrswendegruppe](https://wiki.openstreetmap.org/wiki/Berlin/Verkehrswende) - Mit der OpenStreetMap den Straßenraum kartieren
-Die ehrenamtlich aktive OpenStreetMap-Community nutzt ein "Subtraktives Modell" als Datenerhebungsmethodik. Dabei werden verschiedene Elemente wie Parkstreifen, Einfahrten, Parkverbote oder Haltestellen auf Fahrbahnen getagged. Darauf aufbauend wird ein Parkraummodell erstellt und die Daten visualisiert. [Am Beispiel des Bezirks Neukölln](https://strassenraumkarte.osm-berlin.org/about) konnte die OSM-Community 40.000 Stellplätze ermitteln.  **Die Daten stehen offen zur Verfügung und sind unter anderem als GeoJSON exportierbar**. 
+#### [Parkraumprojekt der OSM-Verkehrswendegruppe](https://parkraum.osm-verkehrswende.org/) - Mit der OpenStreetMap den Straßenraum kartieren
+Die ehrenamtlich aktive OpenStreetMap-Community nutzt ein "Subtraktives Modell" als Datenerhebungsmethodik. Dabei werden verschiedene Elemente wie Parkstreifen, Einfahrten, Parkverbote oder Haltestellen auf Fahrbahnen getagged. Darauf aufbauend wird ein Parkraummodell erstellt und die Daten visualisiert. [Am Beispiel des Bezirks Neukölln](https://parkraum.osm-verkehrswende.org/project-prototype-neukoelln/?map=parkingmap) konnte die OSM-Community 40.000 Stellplätze ermitteln.  **Die Daten stehen offen zur Verfügung und sind unter anderem als GeoJSON exportierbar**. 
 
 Ansprechperson: [Alex Seidel](mailto:alex@osm-berlin.org)
 
@@ -75,15 +75,15 @@ Ansprechperson: [Simon Stolz](mailto:)
 ### Open Data Portal Berlin
 - [Parkraumbestand in Teilen Charlottenburg-Wilmersdorfs](https://daten.berlin.de/datensaetze/parkraumbestand-teilen-charlottenburg-wilmersdorfs)
 
-
 ### FIS-Broker
 - [Behindertenparkplätze](https://fbinter.stadt-berlin.de/fb/index.jsp?loginkey=zoomStart&mapId=k_bparkplatz@senstadt&bbox=360180,5798703,425782,5838830)
 - [Straßenbefahrung 2014](https://fbinter.stadt-berlin.de/fb/index.jsp?loginkey=zoomStart&mapId=k_StraDa@senstadt&bbox=385430,5816847,385638,5816973)
 
 ### Weitere Quellen
 - [Kartierte Parkplätze durch Parkplatz Transform](https://www.xtransform.org)
-- [OpenStreetMap-Daten](
+- [OpenStreetMap-Daten](https://parkraum.osm-verkehrswende.org/project-vector-tiles)
 - [Parkverstöße in Berlin basierend auf Bildbefahrungsdaten (2019)](https://data.fid-move.de/dataset/parkverstobe-in-berlin-basierend-auf-bildbefahrungsdaten-2019)
+- [Parkstreifendaten für Friedrichshain-Kreuzberg](https://www.geodaten-fk.de/MeinXhain/Portal/)
 
 ## Veranstaltungen :date:
 * **22.11.2022** [Parkplatzdaten - Erfassung und Nutzung. Vernetzungstreffen im CityLAB Berlin](https://citylab-berlin.org/de/events/parkplatzdaten-erfassung-und-nutzung/)
