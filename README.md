@@ -79,10 +79,10 @@ Ansprechperson: [Simon Stolz](mailto:)
 
 ### Weitere Quellen
 - [Kartierte Parkplätze durch Parkplatz Transform](https://www.xtransform.org)
-- [OpenStreetMap-Daten](https://parkraum.osm-verkehrswende.org/project-vector-tiles)
+- [OpenStreetMap-Daten](https://parkraum.osm-verkehrswende.org/project-vector-tiles) - **Lizenz: [ODbL 1.0](https://wiki.osmfoundation.org/wiki/Licence)**
 - [Parkverstöße in Berlin basierend auf Bildbefahrungsdaten (2019)](https://data.fid-move.de/dataset/parkverstobe-in-berlin-basierend-auf-bildbefahrungsdaten-2019)
 - [Verschieden Parkplatzdaten für Friedrichshain-Kreuzberg](https://www.geodaten-fk.de/MeinXhain/Portal/) *Unter: Fachdaten > Mobilität > Parken*
-
+- [Car Tagger](https://github.com/hanshack/car-tagging-data-berlin) - **Lizenz: [ODbL 1.0](https://wiki.osmfoundation.org/wiki/Licence)**
 ## Veranstaltungen :date:
 * **22.11.2022** [Parkplatzdaten - Erfassung und Nutzung. Vernetzungstreffen im CityLAB Berlin](https://citylab-berlin.org/de/events/parkplatzdaten-erfassung-und-nutzung/)
 - tbc
