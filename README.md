@@ -96,6 +96,7 @@ Ansprechperson: [Simon Stolz](mailto:)
 ## Schemas 🗄️
 
 - [ParkingFacility von schema.org](https://schema.org/ParkingFacility)
+- [Kartieren von Parkplätzen im Straßenraum bei OpenStreetMap](https://wiki.openstreetmap.org/wiki/DE:Street_parking)
 
 ## Kontaktmöglichkeiten :mailbox_with_mail:
 Bei Fragen und Anregungen schreibt uns gerne per [Mail](mailto:odis@ts.berlin) oder hinterlasst hier Issues!
