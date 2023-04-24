@@ -92,7 +92,7 @@ Ansprechperson: [Simon Stolz](mailto:)
 - [Car Tagger](https://github.com/hanshack/car-tagging-data-berlin) - **Lizenz: [ODbL 1.0](https://wiki.osmfoundation.org/wiki/Licence)**
 ## Veranstaltungen :date:
 * **22.11.2022** [Parkplatzdaten - Erfassung und Nutzung. Vernetzungstreffen im CityLAB Berlin](https://citylab-berlin.org/de/events/parkplatzdaten-erfassung-und-nutzung/)
-* **20.04.2023** Parkplatzdaten - Erfassung und Nutzung. Vernetzungstreffen 2 im CityLAB Berlin([https://citylab-berlin.org/de/events/parkplatzdaten-erfassung-und-nutzung/](https://odis-berlin.de/aktuelles/2023-04-21-2.parkplatztreffen/))
+* **20.04.2023** [Parkplatzdaten - Erfassung und Nutzung. Vernetzungstreffen 2 im CityLAB Berlin](https://odis-berlin.de/aktuelles/2023-04-21-2.parkplatztreffen/))
 
 ## Medienberichte :newspaper:
 - [Die große Parkplatzsuche](https://taz.de/Recht-auf-Stadt/!5902129/) *taz vom 20.12.2022*
