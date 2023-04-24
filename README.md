@@ -61,8 +61,10 @@ Mit einer Parkraumkartierung und Parkdatenanalyse durch einen externen Dienstlei
 Ansprechperson: [Benjamin Sternkopf](mailto:Benjamin.Sternkopf@SenUMVK.berlin.de)
 
 
-#### [Bezirk Charlottenburg-Wilmersdorf](https://www.berlin.de/ba-charlottenburg-wilmersdorf/service/formulare/artikel.194652.php)
-Als erster Berliner Bezirk hat Charlottenburg-Wilmersdorf Daten zum Parkraumbestand ermitteln lassen. Die Daten liegen frei verfügbar als offene Daten auf dem Open Data Portal Berlin bereit.
+#### Bezirk Charlottenburg-Wilmersdorf
+Als erster Berliner Bezirk hat [Charlottenburg-Wilmersdorf](https://www.berlin.de/ba-charlottenburg-wilmersdorf/service/formulare/artikel.194652.php) Daten zum Parkraumbestand ermitteln lassen. Die Daten liegen frei verfügbar als offene Daten auf dem Open Data Portal Berlin bereit.
+
+Ansprechperson: [Gunnar Thöle](mailto:gunnar.thoele@charlottenburg-wilmersdorf.de)
 
 #### Bezirk Friedrichshain-Kreuzberg: 
 
