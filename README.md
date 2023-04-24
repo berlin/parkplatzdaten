@@ -8,6 +8,10 @@ Dabei ist klar geworden: **Vielerorts fehlt es an einer guten Datengrundlage und
 
 Wir laden alle Interessierte ein, das Informationsangebot wachsen zu lassen und sich miteinander ausztauschen - Wir freuen uns über Projektvorstellungen, Veranstaltungstips, Fragen oder Projektideen!
 
+![verschiedene Parkplatzdaten auf einer Karte](parkplatzdaten.jpg "Title")
+
+*Screenshot von Berliner Parkplatzdaten in einem GIS Programm*
+
 ## Akteur:innen / Projekte :busts_in_silhouette:
 An dieser Stelle sammeln wir die uns bekannten Akteur:innen und Projekte. Die Liste kann gerne ergänzt werden!
 
@@ -58,6 +62,8 @@ Als erster Berliner Bezirk hat Charlottenburg-Wilmersdorf Daten zum Parkraumbest
 #### Bezirk Friedrichshain-Kreuzberg: 
 
 Auch der Bezirk Friedrichshain-Kreuzberg hat großes Interesse an Parkplatzdaten, um die Planung und Bewirtschaftung des Straßenraums datengestützt voranzutreiben. Seit 2022 arbeitet der Bezirk mit der OSM-Community und FixMyCity zusammen, um in einer gemeinsamen Kampagne zusammen mit zivilgesellschaftlichen Akteuren Parkraumdaten für den Bezirk zu erfassen.
+
+Die Daten können hier angeschaut werden: [geodaten-fk](https://www.geodaten-fk.de/) 
 
 Ansprechperson: [Simon Stolz](mailto:)
 
