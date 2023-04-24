@@ -37,7 +37,7 @@ Ansprechperson: [Hans Hack](hanshack@troet.cafe)
 #### [Paper planes](https://www.paper-planes.net) - Mit Parkplatzdaten den Straßenraum neu gestalten
 Der Verein paper planes e.V entwickelt Konzepte und Ideen für die Stadt der Zukunft. Dabei kommt dem öffentlichen Straßenraum eine besondere Rolle zuteil, da er die Chance bietet, das Zusammenleben in der Stadt ganz neu zu gestalten. Für paper planes ist eine umfassende Datenlage zu Parkplätzen eine wichtige Grundlage für weitere Aktivitäten.
 
-Ansprechperson: [Simon Wöhr](mailto:)
+Ansprechperson: [Simon Wöhr](mailto:post@paper-planes.net)
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/hey_paperplanes.svg?style=social&label=Follow%20%40hey_paperplanes)](https://twitter.com/hey_paperplanes)
 
@@ -46,6 +46,11 @@ Ansprechperson: [Simon Wöhr](mailto:)
 #### [Pasymo](https://www.fh-potsdam.de/studium-weiterbildung/projekte/pasymo) – Mit Daten und Tools Partizipation ermöglichen
 Das Forschungsprojekt Pasymo ist am Institut für angewandte Forschung (IaF) Urbane Zukunft der FH Potsdam angesiedelt mit dem Ziel gemeinsam mit städtischen Akteuren und Bürgerschaft eine Toolbox bestehend aus Modellen, Computersimulationen und Workshop-Konzepten zu entwickeln. Die Forschungsgruppe kann dabei auf ein Lastenrad zurückgreifen, um mit dem Modell zu Bürger:innen und politischen Entscheidungsträger:innen vor Ort zu gelangen. Parkplatzdaten würden auch hier eine gute Grundlage für evidenzbasierte Politik und Stadtplanung bilden.
 
+#### [EXPERI](https://www.fh-potsdam.de/studium-weiterbildung/projekte/pasymo](https://www.experi-forschung.de)
+Das EXPERI-Forschungsteam untersucht, welche Chancen sich aus dem Berliner Mobilitätsgesetz für die Verkehrswende in Städten ergibt.
+Das Team arbeitet dabei gemeinsam mit Partner*innen aus Verwaltung, Zivilgesellschaft und Wirtschaft. 
+
+Ansprechperson: [Ella Eisemann](mailto:ella.eisemann@dlr.de)
 
 ### Berliner Verwaltung
 
