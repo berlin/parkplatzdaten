@@ -51,7 +51,7 @@ Das Forschungsprojekt Pasymo ist am Institut für angewandte Forschung (IaF) Urb
 
 
 #### Senatsverwaltung für Umwelt, Mobilität, Verbraucher- und Klimaschutz (SenUMVK) - Erste großflächige Datenerhebung gestartet
-Mit einer Parkraumkartierung und Parkdatenanalyse durch einen externen Dienstleister will die Senatsverwaltung für Umwelt, Mobilität, Verbraucher- und Klimaschutz (SenUMVK) Parkplatzdaten sammeln. Dafür soll eine Kartierung von öffentlichen Parkplätzen innerhalb des S-Bahn Rings und angrenzender Gebiete erfolgen, sowie eine Erfassung von Auslastung, Parkverhalten und Parksuchverkehr vor und nach Einführung von neuen Parkzonen. Gerade mit den dynamischen Daten zum Beispiel zum Parksuchverkehr soll so die Grundlage geschaffen werden, verkehrspolitische Maßnahmen wie zum Beispiel die Einführung von Parkzonen zu bewerten. Aber auch für angrenzende Themen wie die Messung der Luftqualität sollen die Daten herangezogen werden. **Die vorläufigen Kartierungsdaten sollen der Community voraussichtlich ab März 2023 zur Verfügung gestellt und nach einer Qualitätskontrolle auf der Digitalen Plattform Stadtverkehr im Herbst 2023 veröffentlicht werden**. 
+Mit einer Parkraumkartierung und Parkdatenanalyse durch einen externen Dienstleister will die Senatsverwaltung für Umwelt, Mobilität, Verbraucher- und Klimaschutz (SenUMVK) Parkplatzdaten sammeln. Dafür soll eine Kartierung von öffentlichen Parkplätzen innerhalb des S-Bahn Rings und angrenzender Gebiete erfolgen, sowie eine Erfassung von Auslastung, Parkverhalten und Parksuchverkehr vor und nach Einführung von neuen Parkzonen. Gerade mit den dynamischen Daten zum Beispiel zum Parksuchverkehr soll so die Grundlage geschaffen werden, verkehrspolitische Maßnahmen wie zum Beispiel die Einführung von Parkzonen zu bewerten. Aber auch für angrenzende Themen wie die Messung der Luftqualität sollen die Daten herangezogen werden. **Die vorläufigen Kartierungsdaten stehen der Community ab Mai 2023 zur Verfügung. Interessierte können sich an sich an [Benjamin Sternkopf](mailto:Benjamin.Sternkopf@SenUMVK.berlin.de) wenden. Eine Veröffentlichung im Geoportal und auf der Digitalen Plattform Stadtverkehr soll im Juli 2023 erfoim Herbst 2023 veröffentlicht werden**. 
 
 Ansprechperson: [Benjamin Sternkopf](mailto:Benjamin.Sternkopf@SenUMVK.berlin.de)
 
@@ -92,7 +92,7 @@ Ansprechperson: [Simon Stolz](mailto:)
 - [Car Tagger](https://github.com/hanshack/car-tagging-data-berlin) - **Lizenz: [ODbL 1.0](https://wiki.osmfoundation.org/wiki/Licence)**
 ## Veranstaltungen :date:
 * **22.11.2022** [Parkplatzdaten - Erfassung und Nutzung. Vernetzungstreffen im CityLAB Berlin](https://citylab-berlin.org/de/events/parkplatzdaten-erfassung-und-nutzung/)
-* **20.04.2023** [Parkplatzdaten - Erfassung und Nutzung. Vernetzungstreffen 2 im CityLAB Berlin](https://odis-berlin.de/aktuelles/2023-04-21-2.parkplatztreffen/))
+* **20.04.2023** [Parkplatzdaten - Erfassung und Nutzung. Vernetzungstreffen 2 im CityLAB Berlin](https://odis-berlin.de/aktuelles/2023-04-21-2.parkplatztreffen/)
 
 ## Medienberichte :newspaper:
 - [Die große Parkplatzsuche](https://taz.de/Recht-auf-Stadt/!5902129/) *taz vom 20.12.2022*
