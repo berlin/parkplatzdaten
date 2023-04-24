@@ -46,7 +46,7 @@ Ansprechperson: [Simon Wöhr](mailto:post@paper-planes.net)
 #### [Pasymo](https://www.fh-potsdam.de/studium-weiterbildung/projekte/pasymo) – Mit Daten und Tools Partizipation ermöglichen
 Das Forschungsprojekt Pasymo ist am Institut für angewandte Forschung (IaF) Urbane Zukunft der FH Potsdam angesiedelt mit dem Ziel gemeinsam mit städtischen Akteuren und Bürgerschaft eine Toolbox bestehend aus Modellen, Computersimulationen und Workshop-Konzepten zu entwickeln. Die Forschungsgruppe kann dabei auf ein Lastenrad zurückgreifen, um mit dem Modell zu Bürger:innen und politischen Entscheidungsträger:innen vor Ort zu gelangen. Parkplatzdaten würden auch hier eine gute Grundlage für evidenzbasierte Politik und Stadtplanung bilden.
 
-#### [EXPERI](https://www.fh-potsdam.de/studium-weiterbildung/projekte/pasymo](https://www.experi-forschung.de)
+#### [EXPERI](https://www.experi-forschung.de)
 Das EXPERI-Forschungsteam untersucht, welche Chancen sich aus dem Berliner Mobilitätsgesetz für die Verkehrswende in Städten ergibt.
 Das Team arbeitet dabei gemeinsam mit Partner*innen aus Verwaltung, Zivilgesellschaft und Wirtschaft. 
 
